@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0dce357d98df8bf45a7fffd1edf7e407
+timeCreated: 1487786598
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Astakhov Skin
+  fontNames:
+  - Astakhov Skin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

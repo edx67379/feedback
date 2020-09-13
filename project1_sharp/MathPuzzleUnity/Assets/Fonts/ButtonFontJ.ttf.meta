@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 767ffe69a6f97bb4a96a794a818f13fe
+timeCreated: 1487781514
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elmer_P Font
+  fontNames:
+  - Elmer_P Font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

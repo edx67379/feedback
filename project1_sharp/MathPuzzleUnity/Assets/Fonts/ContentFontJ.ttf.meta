@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 913afcf134ef8ac45bcee467348ef9b3
+timeCreated: 1487516769
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: APJapanesefontF
+  fontNames:
+  - APJapanesefontF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
